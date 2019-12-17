@@ -1,0 +1,12 @@
+Package: iHEAD
+Type: Package
+Title: Package responsavel por prever o numero de avarias para as linhas AT e MT, como também calcular a probabilidade de falha.      
+Version: 1.0.0
+Author: Alexandra Oliveira, Armando Leitao, Leonel Carvalho,Luis Dias, Luis Guimaraes,Luis Miguel               
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: INESCTEC
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
